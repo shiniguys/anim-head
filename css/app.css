@@ -493,7 +493,7 @@ ul {
   box-sizing: border-box; }
 
 body {
-  min-height: 10000px; }
+  min-height: 1000px; }
 
 header {
   position: fixed;
